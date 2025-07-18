@@ -2,7 +2,7 @@
 
 A growing collection of JavaScript solutions for classic coding interview problems.
 
-The goal is to build and strengthen problem-solving skills, one question at a time. Each file is written manually with clear logic, no copy-paste, no libraries — just core JS and practice.
+The goal is to build and strengthen problem-solving skills, one question at a time. Each file is written manually with clear logic.
 
 ---
 
